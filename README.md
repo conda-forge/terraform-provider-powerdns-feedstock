@@ -14,14 +14,16 @@ Summary: The Terraform PowerDNS provider
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/terraform-provider-powerdns-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/terraform-provider-powerdns-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/terraform-provider-powerdns-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/terraform-provider-powerdns-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/terraform-provider-powerdns-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/terraform-provider-powerdns-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/terraform-provider-powerdns-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/terraform-provider-powerdns-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/terraform-provider-powerdns-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/terraform-provider-powerdns-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/terraform-provider-powerdns-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/terraform-provider-powerdns-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-powerdns/badges/version.svg)](https://anaconda.org/conda-forge/terraform-provider-powerdns)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/terraform-provider-powerdns/badges/downloads.svg)](https://anaconda.org/conda-forge/terraform-provider-powerdns)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-terraform--provider--powerdns-green.svg)](https://anaconda.org/conda-forge/terraform-provider-powerdns) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/terraform-provider-powerdns.svg)](https://anaconda.org/conda-forge/terraform-provider-powerdns) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/terraform-provider-powerdns.svg)](https://anaconda.org/conda-forge/terraform-provider-powerdns) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/terraform-provider-powerdns.svg)](https://anaconda.org/conda-forge/terraform-provider-powerdns) |
 
 Installing terraform-provider-powerdns
 ======================================
