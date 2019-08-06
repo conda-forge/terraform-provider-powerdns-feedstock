@@ -1,13 +1,13 @@
 {% set provider = "PowerDNS" %}
 {% set goname = "github.com/terraform-providers/terraform-provider-"+provider.lower() %}
-{% set version = "0.2.0" %}
+{% set version = "1.0.0" %}
 
 {% set name = goname.split('/')[-1] %}
 {% set pkg_src = ('src/'+goname).replace("/",os.sep) %}
 
 {% set x4_plugin = name + '_v' + version + "_x4" + (".exe" if win else "")%}
 
-{% set sha256 = "8c8521998e681a1e013dbd15caf50711fbd8c3aa7f36f44824ada57ebb803358" %}
+{% set sha256 = "815d43390c1d84baa61829bde88b9b3442f894e660982dd3f66db2c21f7ea242" %}
 {% set sha256_win64 = "70233963f35d09795ecc3e3c8cd86fcb5b51304bd5ec0eeeaca2d690c7385cb6" %}
 
 package:
